@@ -83,6 +83,7 @@ header .pages a {
 header .pages button {
     padding: 0.6rem 3rem;
     border: 2px solid var(--off-black);
+    color: var(--black);
     background-color: var(--white);
     cursor: pointer;
     margin-left: 3rem;
