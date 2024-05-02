@@ -1,7 +1,6 @@
 # Car Buy Sell Landing Page With HTML CSS Only
 
-![Website](https://github.com/akibulshafi/Car-Buy-Sell-Landing-Page-With-HTML-CSS-Only/assets/162458122/14c3777a-4a83-4390-917b-4940f5516e1f)
-
+![mockup](https://github.com/akibulshafi/Car-Buy-Sell-Landing-Page-With-HTML-CSS-Only/assets/162458122/61686612-4539-496d-bbdb-c0b3a7f11f72)
 
 ## Things I Learned ->
 
