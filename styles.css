@@ -295,6 +295,8 @@ header .pages button:hover:before {
     cursor: pointer;
 }
 
+.socials i:hover {opacity: 0.7;}
+
 /*INFO SECTION*/
 
 .info {
