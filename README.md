@@ -1,18 +1,18 @@
 # Car Buy Sell Landing Page With HTML CSS Only
 
-![Uploading Website.jpg…]()
+![Website](https://github.com/akibulshafi/Car-Buy-Sell-Landing-Page-With-HTML-CSS-Only/assets/162458122/32f5b2d9-a8e9-4a42-9209-1516ecfb47e6)
 
 ## Things I Learned ->
 
 While making this website I learnt a whole lot of things!
 
-  1. About Media Queries, specially how to make this site responsive
+  1. About Media Queries, especially how to make this site responsive
   2. About Complex Designing
   3. Proper Idea Of Flexbox, Grid, Positioning
 
 ## Desing To Code ->
 
-The Web Design is not mine, I was inspired from a design on 'Dribble'. It was great learning process because I turned a design into code based website
+The Web Design is not mine, I was inspired by a design on 'Dribble'. It was a great learning process because I turned a design into code based website
 
 ## Language Used ->
 
