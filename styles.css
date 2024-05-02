@@ -649,7 +649,7 @@ header .pages button:hover:before {
 }
 
 
-@media (max-width: 320px) {
+@media (max-width: 344px) {
     .info {
         width: 100%;
         display: flex;
