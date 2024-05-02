@@ -587,7 +587,7 @@ header .pages button:hover:before {
         margin-top: -3rem;
     }
 
-    .review {width: 100%;}
+    .review {width: 0%;}
 
     header {
         display: flex;
