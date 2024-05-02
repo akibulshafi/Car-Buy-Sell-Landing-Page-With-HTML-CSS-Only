@@ -669,4 +669,23 @@ header .pages button:hover:before {
 }
 
 
+/*WEBSITE ANIMATION*/
 
+.animation {
+    opacity: 0;
+    transform: translateY(30px);
+    animation: moveUp 0.5s linear forwards;
+}
+
+@keyframes moveUp {
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+.video.animation {animation-delay: 0.2s;}
+.card-box.animation {animation-delay: 0.5s;}
+.car.animation {animation-delay: 0.7s;}
+.number.animation {animation-delay: 0.9s;}
+.link.animation {animation-delay: 1s;}
