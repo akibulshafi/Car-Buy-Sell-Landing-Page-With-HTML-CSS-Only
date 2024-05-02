@@ -649,3 +649,13 @@ header .pages button:hover:before {
 }
 
 
+@media (max-width: 320px) {
+    .info {
+        width: 100%;
+        display: flex;
+    }
+}
+
+
+
+
